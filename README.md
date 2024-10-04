@@ -17,7 +17,7 @@
 ![Img 5](screenshot/5.png)
 - Gambar result 1
 ![Img 6](screenshot/6.png)
-## 4. Kemudian membuat file baru css eksternal dengan nama style_eksternal.css, lalu tambahkan tag link di HTML untuk merujuk file css yang sudah dibuat pada bagian <head>
+## 4. Kemudian membuat file baru css eksternal dengan nama style_eksternal.css, lalu tambahkan tag link di HTML untuk merujuk file css yang sudah dibuat pada bagian head
 - Gambar 1
 ![Img 7](screenshot/7.png)
 - Gambar 2 style_eksternal.css
